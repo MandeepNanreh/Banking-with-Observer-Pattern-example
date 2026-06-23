@@ -1,4 +1,4 @@
-# Observer Pattern Example
+# Banking with Observer Pattern Example
 
 ## Overview
 
